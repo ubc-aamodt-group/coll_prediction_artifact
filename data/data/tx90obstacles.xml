@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+	<robot name="jaco" file="robots/jaco.rob" translation="0.0 0.0 0" scale="1 1 1"/>
+<terrain file="terrains/cube.off" scale="0.0191567 0.118871 0.0219669 " translation="0.3516 0.1320000 -0.0527"  rotateX="0.322" rotateY="0.0" rotateZ="0" >
+<display color="0.0 0.5 0.0" opacity="0.9"/>
+</terrain>
+</world>

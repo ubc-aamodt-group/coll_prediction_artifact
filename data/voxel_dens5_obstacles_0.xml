@@ -1,0 +1,2407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+	<robot name="jaco" file="robots/jaco.rob" translation="0.0 0.0 0" scale="1 1 1"/>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 4.690000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 4.760000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 4.830000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 4.900000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 4.970000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.290000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.360000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.430000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.670000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.740000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.810000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.880000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="5.950000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.020000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.090000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="6.160000 3.500000 5.040000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 5.670000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 5.740000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 5.810000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 5.880000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 5.950000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.300000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.370000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.440000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.280000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.210000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.140000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.070000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.000000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.070000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="0.140000 6.510000 6.020000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 6.930000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.000000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.070000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.140000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.210000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.280000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.350000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.420000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.910000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.910000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.910000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 0.980000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 0.980000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 0.980000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.050000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.050000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.050000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.120000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.120000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.120000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.190000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.190000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.190000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.260000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.260000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.260000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.870000 1.330000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="2.940000 1.330000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="3.010000 1.330000 7.490000">
+			<display color="0.2 0.2 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 0.770000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 0.840000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 0.910000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 0.980000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 1.050000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.280000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.280000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.280000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.350000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.350000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.350000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.420000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.420000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.420000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.490000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.490000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.490000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.560000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.560000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.560000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 7.630000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 7.630000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 7.630000 1.120000">
+			<display color="0.5 0.5 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 0.910000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 0.980000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 1.050000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 1.120000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 1.190000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.800000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.870000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 2.940000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.910000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.840000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.770000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.700000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.630000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+		<terrain file="terrains/cube.off" scale="0.07 0.07 0.07" translation="-0.560000 3.010000 1.260000">
+			<display color="0.8 0.8 0.0" opacity="0.2"/>
+		</terrain>
+</world>

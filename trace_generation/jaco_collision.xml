@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+<robot name="jaco" file="../data/robots/jaco_mod.rob" translation="0.0 0.0 0" scale="1 1 1"/>
+
+
+</world>
