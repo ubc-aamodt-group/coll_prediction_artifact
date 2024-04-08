@@ -52,18 +52,21 @@ bash fig16.sh
 1. Pose and Coordinate information for comparing prediction approaches: 
 
 ```
-cd coll_pred_artifact/trace_generation
+cd coll_prediction_artifact/trace_generation
+conda create -n new_env python==3.7.0
+conda activate new_env
+python -m pip install -r requirements.txt
 bash launch_pred.sh
 ```
 The above script will store generated traces in scene\_benchmark folder. This folder can be used for evaluation outlined in Section~\ref{sec:comp_art}. 
  
 2. Motion trace generation for COPU+CDU: 
-We provide an example of trace generation for a motion planning algorithm for evaluation of COPU+CDU using a microarchitectural simulator. We give implementation for BIT*-KUKA motion planning, and similar approach can be used for other motion planning algorithms. 
+We provide an example of trace generation for a motion planning algorithm for evaluation of COPU+CDU using a microarchitectural simulator. We give implementation for BIT*-KUKA motion planning, and similar approach can be used for other motion planning algorithms. These scripts were tested on Ubuntu 18.04.
 
 ```
 cd coll_pred_artifact/trace_generation/bit_planning
 conda deactivate
-conda create -n myenv python==3.6.12
+conda create -n myenv python==3.8.17
 python -m pip install -r requirements.txt
 conda activate myenv
 bash launch_bit_trace.sh
