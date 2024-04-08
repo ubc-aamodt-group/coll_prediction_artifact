@@ -67,8 +67,8 @@ We provide an example of trace generation for a motion planning algorithm for ev
 cd coll_pred_artifact/trace_generation/bit_planning
 conda deactivate
 conda create -n myenv python==3.8.17
-python -m pip install -r requirements.txt
 conda activate myenv
+python -m pip install -r requirements.txt
 bash launch_bit_trace.sh
 ```
 
