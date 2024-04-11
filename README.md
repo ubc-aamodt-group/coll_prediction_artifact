@@ -71,7 +71,7 @@ We provide an example of trace generation for a motion planning algorithm for th
 ```
 cd trace_generation/bit_planning
 conda deactivate
-conda create -n myenv python==3.8.17
+conda create -n myenv -c conda-forge python=3.8
 conda activate myenv
 bash install.sh
 bash launch_bit_trace.sh
