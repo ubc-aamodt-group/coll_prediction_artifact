@@ -1,4 +1,4 @@
-name: myenv_n
+name: myenv
 channels:
   - pyg
   - pytorch
