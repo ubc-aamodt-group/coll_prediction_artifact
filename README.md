@@ -24,7 +24,7 @@ This code is developed using on Python 3.6.12.
  
 ## Comparison of collision prediction approaches
 
-The experiments required for Figure 9, Figure 13, and Figure 14 can be executed using the following set of scripts. All scripts should take less than 20 minutes. \\
+The experiments required for Figure 9, Figure 13, and Figure 14 can be executed using the following set of scripts. All scripts should take less than 20 minutes. 
 ```
 cd prediction_approaches
 ## Run all experiments for Figure 9
