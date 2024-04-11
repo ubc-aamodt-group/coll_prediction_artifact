@@ -66,12 +66,15 @@ bash launch_pred.sh
  
 2. Motion trace generation for COPU+CDU:
 
-We provide an example of trace generation for a motion planning algorithm for the evaluation of COPU+CDU using a microarchitectural simulator. We give implementation for BIT*-KUKA motion planning, and a similar approach can be used for other motion planning algorithms. Note that the scripts below were tested on Ubuntu 18.04. 
+We provide an example of trace generation for a motion planning algorithm for the evaluation of COPU+CDU using a microarchitectural simulator. We give implementation for BIT*-KUKA motion planning, and a similar approach can be used for other motion planning algorithms. Note that the scripts below were tested on macOS (environment_macos.yml) and Ubuntu 18.04 (environment.yml). 
 
 ```
 cd trace_generation/bit_planning
 conda deactivate
+## for Ubuntu 18.04
 conda env create -f environment.yml -v
+## for macOS 12.0
+conda env create -f environment_macos.yml -v
 conda activate myenv
 bash launch_bit_trace.sh
 ```
