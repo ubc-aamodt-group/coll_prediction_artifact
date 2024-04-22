@@ -91,4 +91,4 @@ ax.set_ylabel("#Collision Queries\n(Normalized)")
 plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 
 
-plt.savefig(name+'.pdf')
+plt.savefig(sys.argv[2]+'_'+name+'.pdf')
