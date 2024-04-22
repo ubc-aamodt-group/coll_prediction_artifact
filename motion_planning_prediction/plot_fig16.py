@@ -87,7 +87,7 @@ ax.set_ylabel("Perf/W or Perf/mm2 \n or Runtime (Normalized)")
 ax.set_xlabel("Configurations")
 ax.set_ylim(0,2.5)
 
-plt.show()
+#plt.show()
 #plt.text(5, -24, "Low speed (10-30km/h)",ha="center",va="top", fontsize=36,color="tab:blue")
 #plt.text(17, -24, "High speed (30-50km/h)",ha="center",va="top", fontsize=36,color="tab:blue")
 plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
